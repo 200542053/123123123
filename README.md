@@ -2,4 +2,4 @@ Alpha-Stim® AID
 
 TeamProjectF21
 
-![Image text](https://raw.github.com/200542053/repositpry/master/COMP3004FP/img-folder/AlphaStimAID.jpg)
+![Image text](https://github.com/200542053/COMP3004FP/blob/main/img-folder/AlphaStimAID.jpg)
