@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/overlay">
+        <file alias="background">res/background.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file alias="clk">res/clk.png</file>
+        <file>res/bat.png</file>
+        <file>res/Inum.png</file>
+        <file>res/lock.png</file>
+        <file>res/mute.png</file>
+        <file>res/test.png</file>
+        <file alias="bat0">res/bat0.png</file>
+        <file alias="bat25">res/bat25.png</file>
+        <file alias="bat50">res/bat50.png</file>
+        <file alias="bat75">res/bat75.png</file>
+        <file alias="bat100">res/bat100.png</file>
+        <file alias="LB2">res/lowBat2.png</file>
+        <file alias="LB5">res/lowBat5.png</file>
+        <file>res/alpha.png</file>
+        <file>res/beta.png</file>
+        <file>res/gamma.png</file>
+    </qresource>
+    <qresource prefix="/button">
+        <file>res/button_clk.png</file>
+        <file>res/button_L.png</file>
+        <file>res/button_lock.png</file>
+        <file>res/button_R.png</file>
+        <file alias="switch">res/switch.svg</file>
+        <file alias="powerOFF">res/power_off.svg</file>
+        <file alias="powerON">res/power_on.svg</file>
+    </qresource>
+    <qresource prefix="/qss">
+        <file>res/ManjaroMix.qss</file>
+    </qresource>
+</RCC>
